@@ -1,0 +1,3 @@
+# Learning Numpy Source:PIAIC
+
+This Respository is just history of what i learned about Numpy from PIAIC...
